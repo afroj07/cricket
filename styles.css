@@ -1,0 +1,33 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+h1{
+    text-align: center;
+     margin-top: 20px;
+}
+.main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+div{
+    text-align: center;
+}
+.btn{
+    
+    padding: 5px 15px;
+    margin: 5px 5px;
+    border-radius: 10%;
+    background-color: rgb(208, 201, 229);
+}
+img{
+    background-color: rgb(67, 32, 32);
+    border-radius: 10px;
+}
+h3{
+    padding: 5px;
+}
