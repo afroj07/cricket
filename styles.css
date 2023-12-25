@@ -21,12 +21,16 @@ div{
     
     padding: 5px 15px;
     margin: 5px 5px;
-    border-radius: 10%;
-    background-color: rgb(208, 201, 229);
+    border: none;
+    background-color: rgb(188, 153, 153);
+    border-radius: 10px;
 }
 img{
-    background-color: rgb(67, 32, 32);
-    border-radius: 10px;
+    height: 200px;
+    width: 200px;
+    background-color: grey;
+    border: none;
+    border-radius: 50%;
 }
 h3{
     padding: 5px;
